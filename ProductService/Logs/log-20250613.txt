@@ -1,0 +1,515 @@
+2025-06-13 18:10:49.067 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 18:10:49.092 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 18:10:49.156 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 18:10:49.157 +05:00 [INF] Hosting environment: Development
+2025-06-13 18:10:49.158 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 18:10:50.510 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 18:10:50.634 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 41.5518 ms
+2025-06-13 18:10:50.639 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 133.2131ms
+2025-06-13 18:10:50.657 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 18:10:50.657 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 18:10:50.662 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.2152ms
+2025-06-13 18:10:50.685 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.1945ms
+2025-06-13 18:10:50.712 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 18:10:50.721 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 7.2039 ms
+2025-06-13 18:10:50.724 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.6363ms
+2025-06-13 18:15:31.725 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 18:15:31.748 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 18:15:31.801 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 18:15:31.801 +05:00 [INF] Hosting environment: Development
+2025-06-13 18:15:31.802 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 18:15:33.951 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 18:15:34.067 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 41.0287 ms
+2025-06-13 18:15:34.073 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 125.0833ms
+2025-06-13 18:15:34.090 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 18:15:34.090 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 18:15:34.096 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 6.4817ms
+2025-06-13 18:15:34.119 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.8188ms
+2025-06-13 18:15:34.146 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 18:15:34.156 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 8.2518 ms
+2025-06-13 18:15:34.158 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.3136ms
+2025-06-13 18:16:22.767 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 18:16:22.798 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 18:16:22.861 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 18:16:22.862 +05:00 [INF] Hosting environment: Development
+2025-06-13 18:16:22.862 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 18:16:22.997 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 18:16:23.117 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 43.1994 ms
+2025-06-13 18:16:23.122 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 131.3055ms
+2025-06-13 18:16:23.135 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 18:16:23.135 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 18:16:23.141 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.8423ms
+2025-06-13 18:16:23.164 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.1473ms
+2025-06-13 18:16:23.191 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 18:16:23.201 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 8.3750 ms
+2025-06-13 18:16:23.203 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.5616ms
+2025-06-13 18:17:30.472 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 18:17:30.496 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 18:17:30.554 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 18:17:30.555 +05:00 [INF] Hosting environment: Development
+2025-06-13 18:17:30.555 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 18:17:30.911 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 18:17:31.025 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 41.7919 ms
+2025-06-13 18:17:31.030 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 122.7675ms
+2025-06-13 18:17:31.048 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 18:17:31.048 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 18:17:31.064 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 15.9163ms
+2025-06-13 18:17:31.081 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.1153ms
+2025-06-13 18:17:31.110 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 18:17:31.129 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 16.8716 ms
+2025-06-13 18:17:31.130 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 20.7458ms
+2025-06-13 18:19:02.911 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 18:19:02.937 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 18:19:02.995 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 18:19:02.996 +05:00 [INF] Hosting environment: Development
+2025-06-13 18:19:02.996 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 18:19:03.828 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 18:19:03.960 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 45.5480 ms
+2025-06-13 18:19:03.965 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 140.6066ms
+2025-06-13 18:19:03.983 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 18:19:03.983 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 18:19:03.996 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 12.888ms
+2025-06-13 18:19:04.015 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.2726ms
+2025-06-13 18:19:04.043 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 18:19:04.060 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 15.0950 ms
+2025-06-13 18:19:04.062 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 18.9739ms
+2025-06-13 18:20:51.708 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 18:20:51.742 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 18:20:51.811 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 18:20:51.812 +05:00 [INF] Hosting environment: Development
+2025-06-13 18:20:51.812 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 18:20:53.235 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 18:20:53.351 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 45.4845 ms
+2025-06-13 18:20:53.358 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 126.6486ms
+2025-06-13 18:20:53.376 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 18:20:53.376 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 18:20:53.382 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.4859ms
+2025-06-13 18:20:53.404 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.3579ms
+2025-06-13 18:20:53.432 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 18:20:53.451 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 16.6196 ms
+2025-06-13 18:20:53.452 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 20.4407ms
+2025-06-13 22:19:02.761 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 22:19:02.787 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 22:19:02.842 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 22:19:02.842 +05:00 [INF] Hosting environment: Development
+2025-06-13 22:19:02.843 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 22:19:03.482 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 22:19:03.625 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 43.0242 ms
+2025-06-13 22:19:03.631 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 154.1447ms
+2025-06-13 22:19:03.648 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 22:19:03.649 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 22:19:03.654 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.8179ms
+2025-06-13 22:19:03.688 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.4895ms
+2025-06-13 22:19:03.711 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 22:19:03.728 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 15.6745 ms
+2025-06-13 22:19:03.730 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 19.1839ms
+2025-06-13 22:19:19.265 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7234/api/Product - application/json 56
+2025-06-13 22:19:19.275 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.CreateProduct (ProductService)'
+2025-06-13 22:19:19.291 +05:00 [INF] Route matched with {action = "CreateProduct", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateProduct(ProductService.Mediator.Products.CreateProduct.CreateProductCommand) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:20.274 +05:00 [INF] Executed DbCommand (37ms) [Parameters=[@p0='?', @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Products" ("Name", "Stock")
+VALUES (@p0, @p1)
+RETURNING "Id";
+2025-06-13 22:19:20.306 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-06-13 22:19:20.311 +05:00 [INF] Executed action ProductService.Controllers.ProductController.CreateProduct (ProductService) in 1016.5526ms
+2025-06-13 22:19:20.312 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.CreateProduct (ProductService)'
+2025-06-13 22:19:20.313 +05:00 [INF] HTTP POST /api/Product responded 200 in 1042.9614 ms
+2025-06-13 22:19:20.318 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7234/api/Product - 200 null application/json; charset=utf-8 1052.5503ms
+2025-06-13 22:19:27.949 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:19:27.954 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:27.958 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:28.131 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:19:28.137 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:19:28.138 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 179.4676ms
+2025-06-13 22:19:28.139 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:28.139 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 186.0731 ms
+2025-06-13 22:19:28.140 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 191.0667ms
+2025-06-13 22:19:39.610 +05:00 [INF] Request starting HTTP/2 PUT https://localhost:7234/api/Product - application/json 28
+2025-06-13 22:19:39.612 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 22:19:39.615 +05:00 [INF] Route matched with {action = "UpdateProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProductById(ProductService.Mediator.Products.UpdateStockById.UpdateStockByIdCommand) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:39.631 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:19:39.634 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-06-13 22:19:39.635 +05:00 [INF] Executed action ProductService.Controllers.ProductController.UpdateProductById (ProductService) in 18.8279ms
+2025-06-13 22:19:39.636 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 22:19:39.636 +05:00 [INF] HTTP PUT /api/Product responded 200 in 24.5179 ms
+2025-06-13 22:19:39.637 +05:00 [INF] Request finished HTTP/2 PUT https://localhost:7234/api/Product - 200 null application/json; charset=utf-8 26.8848ms
+2025-06-13 22:19:46.448 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:19:46.450 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:46.451 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:46.455 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:19:46.457 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:19:46.458 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 5.2519ms
+2025-06-13 22:19:46.459 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:46.460 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 9.9657 ms
+2025-06-13 22:19:46.462 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 13.9051ms
+2025-06-13 22:19:47.251 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:19:47.252 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:47.253 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:47.257 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:19:47.259 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:19:47.260 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 6.2665ms
+2025-06-13 22:19:47.261 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:47.262 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 9.3676 ms
+2025-06-13 22:19:47.263 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 12.6195ms
+2025-06-13 22:19:47.837 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:19:47.839 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:47.839 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:47.842 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:19:47.843 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:19:47.844 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 4.069ms
+2025-06-13 22:19:47.845 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:47.847 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 8.0013 ms
+2025-06-13 22:19:47.848 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 11.2324ms
+2025-06-13 22:19:48.036 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:19:48.039 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:48.040 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:19:48.045 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:19:48.048 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:19:48.050 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 8.0306ms
+2025-06-13 22:19:48.051 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:19:48.052 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 13.9224 ms
+2025-06-13 22:19:48.054 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 18.3722ms
+2025-06-13 22:20:12.713 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:20:12.718 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:20:12.719 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:20:12.723 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:20:12.725 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:20:12.725 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 5.0666ms
+2025-06-13 22:20:12.726 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:20:12.727 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 8.4271 ms
+2025-06-13 22:20:12.728 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 14.9347ms
+2025-06-13 22:22:55.503 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 22:22:55.530 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 22:22:55.581 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 22:22:55.582 +05:00 [INF] Hosting environment: Development
+2025-06-13 22:22:55.583 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 22:22:55.894 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 22:22:56.006 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 39.8472 ms
+2025-06-13 22:22:56.011 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 120.6777ms
+2025-06-13 22:22:56.018 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 22:22:56.023 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.1816ms
+2025-06-13 22:22:56.026 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 22:22:56.051 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.9055ms
+2025-06-13 22:22:56.076 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 22:22:56.093 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 14.6292 ms
+2025-06-13 22:22:56.094 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.6569ms
+2025-06-13 22:22:59.751 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:22:59.758 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:22:59.771 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:23:00.543 +05:00 [INF] Executed DbCommand (36ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:23:00.590 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:23:00.595 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 820.3242ms
+2025-06-13 22:23:00.596 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:23:00.598 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 842.2210 ms
+2025-06-13 22:23:00.605 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 853.7548ms
+2025-06-13 22:23:10.341 +05:00 [INF] Request starting HTTP/2 PUT https://localhost:7234/api/Product - application/json 28
+2025-06-13 22:23:10.342 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 22:23:10.347 +05:00 [INF] Route matched with {action = "UpdateProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProductById(ProductService.Mediator.Products.UpdateStockById.UpdateStockByIdCommand) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:23:10.387 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:23:10.430 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Products" SET "Stock" = @p0
+WHERE "Id" = @p1;
+2025-06-13 22:23:10.437 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-06-13 22:23:10.438 +05:00 [INF] Executed action ProductService.Controllers.ProductController.UpdateProductById (ProductService) in 89.9569ms
+2025-06-13 22:23:10.439 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 22:23:10.440 +05:00 [INF] HTTP PUT /api/Product responded 200 in 97.4015 ms
+2025-06-13 22:23:10.440 +05:00 [INF] Request finished HTTP/2 PUT https://localhost:7234/api/Product - 200 null application/json; charset=utf-8 99.8908ms
+2025-06-13 22:23:13.297 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:23:13.299 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:23:13.300 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:23:13.342 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:23:13.344 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:23:13.344 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 44.0384ms
+2025-06-13 22:23:13.345 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:23:13.345 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 46.6865 ms
+2025-06-13 22:23:13.346 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 49.3125ms
+2025-06-13 22:57:18.022 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 22:57:18.045 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 22:57:18.098 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 22:57:18.099 +05:00 [INF] Hosting environment: Development
+2025-06-13 22:57:18.100 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 22:57:18.616 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 22:57:18.742 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 48.7510 ms
+2025-06-13 22:57:18.747 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 131.4169ms
+2025-06-13 22:57:18.758 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 22:57:18.758 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 22:57:18.764 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.6416ms
+2025-06-13 22:57:18.790 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.0692ms
+2025-06-13 22:57:18.819 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 22:57:18.835 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 15.1605 ms
+2025-06-13 22:57:18.837 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 18.2383ms
+2025-06-13 22:57:48.000 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 22:57:48.027 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 22:57:48.097 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 22:57:48.098 +05:00 [INF] Hosting environment: Development
+2025-06-13 22:57:48.099 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 22:57:48.456 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 22:57:48.643 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 49.0032 ms
+2025-06-13 22:57:48.648 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 192.9903ms
+2025-06-13 22:57:48.666 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 22:57:48.666 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 22:57:48.672 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 5.6939ms
+2025-06-13 22:57:48.696 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.6341ms
+2025-06-13 22:57:48.728 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 22:57:48.746 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 16.0652 ms
+2025-06-13 22:57:48.747 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 19.4368ms
+2025-06-13 22:58:02.933 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:02.945 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:02.960 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:03.613 +05:00 [INF] Executed DbCommand (34ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:03.653 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:03.657 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 693.6811ms
+2025-06-13 22:58:03.657 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:03.659 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 718.3938 ms
+2025-06-13 22:58:03.664 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 730.4896ms
+2025-06-13 22:58:12.865 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7234/api/product/1 - null null
+2025-06-13 22:58:12.866 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:12.867 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:12.881 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:12.883 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:12.884 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 16.6146ms
+2025-06-13 22:58:12.885 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:12.885 +05:00 [INF] HTTP GET /api/product/1 responded 200 in 19.4070 ms
+2025-06-13 22:58:12.886 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7234/api/product/1 - 200 null application/json; charset=utf-8 21.5711ms
+2025-06-13 22:58:13.416 +05:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7234/api/product/1/stock - application/json; charset=utf-8 1
+2025-06-13 22:58:13.417 +05:00 [INF] HTTP PUT /api/product/1/stock responded 404 in 0.1893 ms
+2025-06-13 22:58:13.418 +05:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7234/api/product/1/stock - 404 0 null 2.5165ms
+2025-06-13 22:58:13.420 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: PUT https://localhost:7234/api/product/1/stock, Response status code: 404
+2025-06-13 22:58:23.065 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:23.071 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:23.073 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:23.117 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:23.118 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:23.119 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 44.1776ms
+2025-06-13 22:58:23.120 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:23.120 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 49.1850 ms
+2025-06-13 22:58:23.121 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 55.613ms
+2025-06-13 22:58:23.933 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:23.934 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:23.935 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:23.938 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:23.942 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:23.942 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 6.4342ms
+2025-06-13 22:58:23.943 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:23.944 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 9.2262 ms
+2025-06-13 22:58:23.944 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 11.3538ms
+2025-06-13 22:58:24.109 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:24.111 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.112 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:24.115 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:24.118 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:24.119 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 5.3712ms
+2025-06-13 22:58:24.119 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.120 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 8.9503 ms
+2025-06-13 22:58:24.120 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 11.1452ms
+2025-06-13 22:58:24.285 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:24.287 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.288 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:24.290 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:24.293 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:24.293 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 4.9749ms
+2025-06-13 22:58:24.294 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.294 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 7.7686 ms
+2025-06-13 22:58:24.295 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 9.7145ms
+2025-06-13 22:58:24.471 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:24.472 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.473 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:24.475 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:24.478 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:24.478 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 4.6089ms
+2025-06-13 22:58:24.479 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.479 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 6.9955 ms
+2025-06-13 22:58:24.480 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 8.8586ms
+2025-06-13 22:58:24.618 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 22:58:24.620 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.620 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 22:58:24.623 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 22:58:24.624 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 22:58:24.625 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 4.0636ms
+2025-06-13 22:58:24.625 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 22:58:24.626 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 6.3695 ms
+2025-06-13 22:58:24.627 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 8.2745ms
+2025-06-13 23:02:20.494 +05:00 [INF] Now listening on: https://localhost:7234
+2025-06-13 23:02:20.523 +05:00 [INF] Now listening on: http://localhost:5092
+2025-06-13 23:02:20.592 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-13 23:02:20.593 +05:00 [INF] Hosting environment: Development
+2025-06-13 23:02:20.593 +05:00 [INF] Content root path: D:\C#\ProductService
+2025-06-13 23:02:21.045 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/index.html - null null
+2025-06-13 23:02:21.158 +05:00 [INF] HTTP GET /swagger/index.html responded 200 in 44.0997 ms
+2025-06-13 23:02:21.164 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/index.html - 200 null text/html;charset=utf-8 119.9593ms
+2025-06-13 23:02:21.199 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - null null
+2025-06-13 23:02:21.199 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-13 23:02:21.215 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 16513 application/javascript; charset=utf-8 15.9387ms
+2025-06-13 23:02:21.236 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.9876ms
+2025-06-13 23:02:21.273 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - null null
+2025-06-13 23:02:21.294 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 18.0778 ms
+2025-06-13 23:02:21.295 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.356ms
+2025-06-13 23:02:35.105 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7234/api/product/1 - null null
+2025-06-13 23:02:35.110 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:35.123 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:02:35.765 +05:00 [INF] Executed DbCommand (33ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:02:35.809 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 23:02:35.812 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 686.2041ms
+2025-06-13 23:02:35.813 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:35.815 +05:00 [INF] HTTP GET /api/product/1 responded 200 in 707.1906 ms
+2025-06-13 23:02:35.820 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7234/api/product/1 - 200 null application/json; charset=utf-8 714.8941ms
+2025-06-13 23:02:35.825 +05:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7234/api/product - application/json; charset=utf-8 18
+2025-06-13 23:02:35.827 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 23:02:35.830 +05:00 [INF] Route matched with {action = "UpdateProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProductById(ProductService.Mediator.Products.UpdateStockById.UpdateStockByIdCommand) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:02:35.861 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:02:35.905 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Products" SET "Stock" = @p0
+WHERE "Id" = @p1;
+2025-06-13 23:02:35.912 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-06-13 23:02:35.913 +05:00 [INF] Executed action ProductService.Controllers.ProductController.UpdateProductById (ProductService) in 82.6964ms
+2025-06-13 23:02:35.914 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 23:02:35.914 +05:00 [INF] HTTP PUT /api/product responded 200 in 87.9183 ms
+2025-06-13 23:02:35.916 +05:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7234/api/product - 200 null text/plain; charset=utf-8 91.3062ms
+2025-06-13 23:02:40.107 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 23:02:40.111 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:40.112 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:02:40.152 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:02:40.153 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 23:02:40.153 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 40.2906ms
+2025-06-13 23:02:40.154 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:40.154 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 43.4386 ms
+2025-06-13 23:02:40.155 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 47.8934ms
+2025-06-13 23:02:49.151 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7234/api/product/1 - null null
+2025-06-13 23:02:49.153 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:49.154 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:02:49.158 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:02:49.160 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 23:02:49.161 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 5.7128ms
+2025-06-13 23:02:49.162 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:49.162 +05:00 [INF] HTTP GET /api/product/1 responded 200 in 9.1132 ms
+2025-06-13 23:02:49.164 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7234/api/product/1 - 200 null application/json; charset=utf-8 13.0919ms
+2025-06-13 23:02:49.166 +05:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7234/api/product - application/json; charset=utf-8 18
+2025-06-13 23:02:49.167 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 23:02:49.168 +05:00 [INF] Route matched with {action = "UpdateProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProductById(ProductService.Mediator.Products.UpdateStockById.UpdateStockByIdCommand) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:02:49.171 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:02:49.177 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Products" SET "Stock" = @p0
+WHERE "Id" = @p1;
+2025-06-13 23:02:49.178 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-06-13 23:02:49.179 +05:00 [INF] Executed action ProductService.Controllers.ProductController.UpdateProductById (ProductService) in 10.5941ms
+2025-06-13 23:02:49.180 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.UpdateProductById (ProductService)'
+2025-06-13 23:02:49.180 +05:00 [INF] HTTP PUT /api/product responded 200 in 13.1454 ms
+2025-06-13 23:02:49.181 +05:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7234/api/product - 200 null text/plain; charset=utf-8 15.2823ms
+2025-06-13 23:02:53.340 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7234/api/Product/1 - null null
+2025-06-13 23:02:53.342 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:53.343 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:02:53.347 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:02:53.350 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 23:02:53.352 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 7.149ms
+2025-06-13 23:02:53.353 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:02:53.354 +05:00 [INF] HTTP GET /api/Product/1 responded 200 in 12.0395 ms
+2025-06-13 23:02:53.356 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7234/api/Product/1 - 200 null application/json; charset=utf-8 15.7432ms
+2025-06-13 23:03:02.328 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7234/api/product/1 - null null
+2025-06-13 23:03:02.329 +05:00 [INF] Executing endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:03:02.330 +05:00 [INF] Route matched with {action = "GetProductById", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductById(Int32) on controller ProductService.Controllers.ProductController (ProductService).
+2025-06-13 23:03:02.332 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Name", p."Stock"
+FROM "Products" AS p
+WHERE p."Id" = @__p_0
+LIMIT 1
+2025-06-13 23:03:02.334 +05:00 [INF] Executing OkObjectResult, writing value of type 'ProductService.Dtos.ProductDto'.
+2025-06-13 23:03:02.334 +05:00 [INF] Executed action ProductService.Controllers.ProductController.GetProductById (ProductService) in 3.9961ms
+2025-06-13 23:03:02.335 +05:00 [INF] Executed endpoint 'ProductService.Controllers.ProductController.GetProductById (ProductService)'
+2025-06-13 23:03:02.335 +05:00 [INF] HTTP GET /api/product/1 responded 200 in 6.2204 ms
+2025-06-13 23:03:02.336 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7234/api/product/1 - 200 null application/json; charset=utf-8 8.3748ms
