@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ProductServiceTests\\ProductServiceTests.csproj": {}
+    "D:\\GitHub\\Repo_N9\\ProductServiceTests\\ProductServiceTests.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ProductServiceTests\\ProductServiceTests.csproj": {
+    "D:\\GitHub\\Repo_N9\\ProductServiceTests\\ProductServiceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProductServiceTests\\ProductServiceTests.csproj",
+        "projectUniqueName": "D:\\GitHub\\Repo_N9\\ProductServiceTests\\ProductServiceTests.csproj",
         "projectName": "ProductServiceTests",
-        "projectPath": "D:\\C#\\ProductServiceTests\\ProductServiceTests.csproj",
+        "projectPath": "D:\\GitHub\\Repo_N9\\ProductServiceTests\\ProductServiceTests.csproj",
         "packagesPath": "C:\\Users\\nasri\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProductServiceTests\\obj\\",
+        "outputPath": "D:\\GitHub\\Repo_N9\\ProductServiceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\ProductService\\ProductService.csproj": {
-                "projectPath": "D:\\C#\\ProductService\\ProductService.csproj"
+              "D:\\GitHub\\Repo_N9\\ProductService\\ProductService.csproj": {
+                "projectPath": "D:\\GitHub\\Repo_N9\\ProductService\\ProductService.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "D:\\C#\\ProductService\\ProductService.csproj": {
+    "D:\\GitHub\\Repo_N9\\ProductService\\ProductService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProductService\\ProductService.csproj",
+        "projectUniqueName": "D:\\GitHub\\Repo_N9\\ProductService\\ProductService.csproj",
         "projectName": "ProductService",
-        "projectPath": "D:\\C#\\ProductService\\ProductService.csproj",
+        "projectPath": "D:\\GitHub\\Repo_N9\\ProductService\\ProductService.csproj",
         "packagesPath": "C:\\Users\\nasri\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProductService\\obj\\",
+        "outputPath": "D:\\GitHub\\Repo_N9\\ProductService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

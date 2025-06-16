@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6IA6+A+7Qo=",
+  "dgSpecHash": "qBhkDefq5tY=",
   "success": true,
-  "projectFilePath": "D:\\C#\\ProductServiceTests\\ProductServiceTests.csproj",
+  "projectFilePath": "D:\\GitHub\\Repo_N9\\ProductServiceTests\\ProductServiceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasri\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\nasri\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

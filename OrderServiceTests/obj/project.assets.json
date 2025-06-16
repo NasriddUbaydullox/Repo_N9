@@ -8285,11 +8285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\OrderServiceTests\\OrderServiceTests.csproj",
+      "projectUniqueName": "D:\\GitHub\\Repo_N9\\OrderServiceTests\\OrderServiceTests.csproj",
       "projectName": "OrderServiceTests",
-      "projectPath": "D:\\C#\\OrderServiceTests\\OrderServiceTests.csproj",
+      "projectPath": "D:\\GitHub\\Repo_N9\\OrderServiceTests\\OrderServiceTests.csproj",
       "packagesPath": "C:\\Users\\nasri\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\OrderServiceTests\\obj\\",
+      "outputPath": "D:\\GitHub\\Repo_N9\\OrderServiceTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8311,8 +8311,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\TrainingTask_V2\\OrderService.csproj": {
-              "projectPath": "D:\\C#\\TrainingTask_V2\\OrderService.csproj"
+            "D:\\GitHub\\Repo_N9\\TrainingTask_V2\\OrderService.csproj": {
+              "projectPath": "D:\\GitHub\\Repo_N9\\TrainingTask_V2\\OrderService.csproj"
             }
           }
         }
